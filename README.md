@@ -30,7 +30,8 @@ web 3/
   * **Tablet:** 2 boxes in the first row, 1 in the second row.
   * **Mobile:** Stacked vertically.
 
-<img width="1270" height="717" alt="Снимок экрана 2026-10-04 173134" src="https://github.com/user-attachments/assets/5c70ed29-cc36-4fbe-b9e1-cf8268d489d8" />
+<img width="1270" height="717" alt="Снимок экрана 2026-10-04 173134" src="https://github.com/user-attachments/assets/d76539a0-987d-4fa6-977f-9137565b5735" />
+
 
 
 ### Part 2: Bootstrap Grid System
