@@ -31,6 +31,10 @@
 
 ---
 
+### Desktop Layout (Width >= 1024px)
+<img width="1917" height="772" alt="image" src="https://github.com/user-attachments/assets/33fd9ca1-928f-4e80-9a7c-8b06dd4a7a51" />
+
+
 ## Project Structure
 
 ```text
