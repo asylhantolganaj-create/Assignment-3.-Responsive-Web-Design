@@ -27,7 +27,8 @@
 
 ### Part 3: Combined Project
 * **Task 4 (Responsive Portfolio Page):** Created a complete portfolio page layout combining custom media queries and Bootstrap Grid System (`index.html`).
- <img width="1147" height="382" alt="Снимок экрана 2026-10-04 173154" src="https://github.com/user-attachments/assets/ee8b31ac-1be9-4050-9984-eb963bff9d6b" />
+<img width="1536" height="446" alt="image" src="https://github.com/user-attachments/assets/b6d0d618-f882-49f8-bfb9-279f80b75a55" />
+
 
 ---
 
