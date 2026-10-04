@@ -45,11 +45,6 @@
 
 ```text
 web 3/
-├── style.css
-├── screenshots/
-│   ├── mobile_task1.png
-│   ├── mobile_task2.png
-│   └── mobile_task4.png
 ├── index.html
 └── README.md
 
