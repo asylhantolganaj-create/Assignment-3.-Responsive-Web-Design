@@ -15,25 +15,30 @@
   * **Tablet:** 2 boxes in the first row, 1 in the second row.
   * **Mobile:** Stacked vertically.
  
-<img width="1270" height="717" alt="Снимок экрана 2026-10-04 173134" src="https://github.com/user-attachments/assets/9745a514-1d27-450f-92df-1cd703ad1b00" />
+<img width="1782" height="345" alt="image" src="https://github.com/user-attachments/assets/da1715fd-221b-4f29-bdc7-d21189df9dba" />
+
 
 
 ### Part 2: Bootstrap Grid System
 * **Task 2 (Bootstrap Columns):** Built a 3-column layout using Bootstrap 5 grid classes (`col-12`, `col-md-6`, `col-lg-4`).
 * **Task 3 (Bootstrap Navigation Bar):** Added a responsive navigation bar with logo on the left, menu links on the right, and a collapsible hamburger button on small screens.
+<img width="1752" height="842" alt="image" src="https://github.com/user-attachments/assets/841b9d40-0c4c-40be-8739-3994845dea7a" />
+<img width="1685" height="672" alt="image" src="https://github.com/user-attachments/assets/c01d6974-8844-4db6-bc70-7a5b3b5d2735" />
 
-<img width="1197" height="697" alt="Снимок экрана 2026-10-04 173145" src="https://github.com/user-attachments/assets/02311ebd-9ae5-43fb-95de-974736db1954" />
+
 
 
 ### Part 3: Combined Project
 * **Task 4 (Responsive Portfolio Page):** Created a complete portfolio page layout combining custom media queries and Bootstrap Grid System (`index.html`).
-<img width="1536" height="446" alt="image" src="https://github.com/user-attachments/assets/b6d0d618-f882-49f8-bfb9-279f80b75a55" />
+<img width="1747" height="745" alt="image" src="https://github.com/user-attachments/assets/0bbeeeba-3a79-4991-9287-3ad09889a686" />
+
 
 
 ---
 
 ### Desktop Layout (Width >= 1024px)
-<img width="1917" height="772" alt="image" src="https://github.com/user-attachments/assets/33fd9ca1-928f-4e80-9a7c-8b06dd4a7a51" />
+<img width="1787" height="907" alt="image" src="https://github.com/user-attachments/assets/f455e59c-baee-4594-9de3-b68e0b080d1b" />
+
 
 
 ## Project Structure
